@@ -23,7 +23,9 @@
     font-size: 16px;  
 }
 
-
+#body   {
+    background-color: #f5f5f5;
+}
 
 .thomas-evans { 
   height: 33px; 
